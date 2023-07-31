@@ -7,6 +7,8 @@ sites:
     url: https://www.jatinp.com
   - name: jpNotes
     url: https://jpNotes.jatinp.com
+  - name: Lemmy
+    url: https://lemmy.pictures
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
