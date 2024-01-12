@@ -40,7 +40,7 @@
     "url": "https://lemmy.pictures",
     "icon": "https://icons.duckduckgo.com/ip3/lemmy.pictures.ico",
     "slug": "lemmy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -52,6 +52,7 @@
     "timeMonth": 436,
     "timeYear": 435,
     "dailyMinutesDown": {
+      "2024-01-12": 0,
       "2023-12-09": 24
     }
   }
