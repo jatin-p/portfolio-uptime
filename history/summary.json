@@ -40,18 +40,19 @@
     "url": "https://lemmy.pictures",
     "icon": "https://icons.duckduckgo.com/ip3/lemmy.pictures.ico",
     "slug": "lemmy",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "99.98%",
     "time": 438,
     "timeDay": 72,
     "timeWeek": 427,
     "timeMonth": 404,
     "timeYear": 438,
     "dailyMinutesDown": {
+      "2024-04-20": 0,
       "2024-01-12": 33,
       "2023-12-09": 24
     }
