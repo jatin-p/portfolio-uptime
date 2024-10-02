@@ -4,10 +4,10 @@
     "url": "https://www.jatinp.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.jatinp.com.ico",
     "slug": "portfolio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 197,
@@ -15,7 +15,9 @@
     "timeWeek": 254,
     "timeMonth": 236,
     "timeYear": 197,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-02": 1
+    }
   },
   {
     "name": "jpNotes",
@@ -40,9 +42,9 @@
     "url": "https://lemmy.pictures",
     "icon": "https://icons.duckduckgo.com/ip3/lemmy.pictures.ico",
     "slug": "lemmy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -52,6 +54,7 @@
     "timeMonth": 471,
     "timeYear": 442,
     "dailyMinutesDown": {
+      "2024-10-02": 0,
       "2024-05-31": 25,
       "2024-04-20": 33,
       "2024-01-12": 33,
